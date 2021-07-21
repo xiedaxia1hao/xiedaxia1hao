@@ -2,8 +2,6 @@
 
 TBD. 
 
-Homepage: TBD. 
-
 ## Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=xiedaxia1hao&include_all_commits=true&count_private=true)
