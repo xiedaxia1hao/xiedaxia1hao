@@ -6,7 +6,7 @@ Homepage: TBD.
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=xiedaxia1hao&show_icons=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=xiedaxia1hao&count_private=true)
 ![](https://github-profile-trophy.vercel.app/?username=xiedaxia1hao&theme=onedark&column=6)
 
 ## Misc. 
