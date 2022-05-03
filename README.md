@@ -1,6 +1,6 @@
 ## About Me
 
-TBD. 
+I was trained to only stop in national holiday.
 
 ## Stats
 
